@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, i'm Marcos! 👋
+I'm a computer engineering student in Brazil, who likes to write some code and learn new things about programming.
 
 <!--
 **MarcosVAdS/MarcosVAdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
